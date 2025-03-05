@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":2,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +34,12 @@
   },
   "name":"maze-game",
   "resources":[
+    {"id":{"name":"obj_goodguy","path":"objects/obj_goodguy/obj_goodguy.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_goodguy_down","path":"sprites/spr_goodguy_down/spr_goodguy_down.yy",},},
+    {"id":{"name":"spr_goodguy_left","path":"sprites/spr_goodguy_left/spr_goodguy_left.yy",},},
+    {"id":{"name":"spr_goodguy_right","path":"sprites/spr_goodguy_right/spr_goodguy_right.yy",},},
+    {"id":{"name":"spr_goodguy_up","path":"sprites/spr_goodguy_up/spr_goodguy_up.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
