@@ -12,8 +12,8 @@
   "name":"obj_goodguy",
   "overriddenProperties":[],
   "parent":{
-    "name":"maze-game",
-    "path":"maze-game.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
