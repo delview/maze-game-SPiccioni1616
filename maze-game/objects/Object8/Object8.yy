@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_smallwall",
-  "eventList":[],
+  "%Name":"Object8",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_smallwall",
+  "name":"Object8",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_smallwall",
-    "path":"sprites/spr_smallwall/spr_smallwall.yy",
+    "name":"spr_badguy_down",
+    "path":"sprites/spr_badguy_down/spr_badguy_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
