@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"obj_finalboss","path":"objects/obj_finalboss/obj_finalboss.yy",},},
     {"id":{"name":"obj_goodguy","path":"objects/obj_goodguy/obj_goodguy.yy",},},
+    {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
     {"id":{"name":"obj_smallwall","path":"objects/obj_smallwall/obj_smallwall.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_youwin","path":"objects/obj_youwin/obj_youwin.yy",},},
@@ -49,6 +50,8 @@
     {"id":{"name":"spr_finalboss_left","path":"sprites/spr_finalboss_left/spr_finalboss_left.yy",},},
     {"id":{"name":"spr_finalboss_right","path":"sprites/spr_finalboss_right/spr_finalboss_right.yy",},},
     {"id":{"name":"spr_finalboss_up","path":"sprites/spr_finalboss_up/spr_finalboss_up.yy",},},
+    {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
     {"id":{"name":"spr_left_goodguy","path":"sprites/spr_left_goodguy/spr_left_goodguy.yy",},},
     {"id":{"name":"spr_right_goodguy","path":"sprites/spr_right_goodguy/spr_right_goodguy.yy",},},
     {"id":{"name":"spr_smallwall","path":"sprites/spr_smallwall/spr_smallwall.yy",},},
