@@ -1,4 +1,4 @@
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Rooms.Restart_Room
 /// @DnDVersion : 1
-/// @DnDHash : 76A1C01A
-speed = 0;
+/// @DnDHash : 3915CAB3
+room_restart();

@@ -4,10 +4,10 @@
 /// @DnDArgument : "direction" "180"
 direction = 180;
 
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 2CC958D8
-/// @DnDArgument : "spriteind" "spr_left_goodguy"
-/// @DnDSaveInfo : "spriteind" "spr_left_goodguy"
-sprite_index = spr_left_goodguy;
-image_index = 0;
+/// @DnDHash : 681B557F
+/// @DnDArgument : "expr" "-7"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "x"
+x += -7;

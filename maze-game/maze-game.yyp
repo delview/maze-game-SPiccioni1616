@@ -26,7 +26,9 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"bonuslevel.mp4","CopyToMask":-1,"filePath":"datafiles","name":"bonuslevel.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -46,6 +48,8 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
     {"id":{"name":"spr_badguy_down","path":"sprites/spr_badguy_down/spr_badguy_down.yy",},},
     {"id":{"name":"spr_badguy_left","path":"sprites/spr_badguy_left/spr_badguy_left.yy",},},
     {"id":{"name":"spr_badguy_right","path":"sprites/spr_badguy_right/spr_badguy_right.yy",},},
@@ -62,6 +66,7 @@
     {"id":{"name":"spr_right_goodguy","path":"sprites/spr_right_goodguy/spr_right_goodguy.yy",},},
     {"id":{"name":"spr_smallwall","path":"sprites/spr_smallwall/spr_smallwall.yy",},},
     {"id":{"name":"spr_up_goodguy","path":"sprites/spr_up_goodguy/spr_up_goodguy.yy",},},
+    {"id":{"name":"spr_youwin","path":"sprites/spr_youwin/spr_youwin.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
     {"id":{"name":"Stony_Wall2","path":"sprites/Stony_Wall2/Stony_Wall2.yy",},},
   ],
@@ -72,6 +77,8 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
