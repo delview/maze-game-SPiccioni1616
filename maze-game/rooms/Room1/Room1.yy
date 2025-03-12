@@ -159,6 +159,7 @@
     {"name":"inst_67AEE81","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_58FFB038","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6D514688","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7F73C879","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -316,6 +317,7 @@
         {"$GMRInstance":"v1","%Name":"inst_67AEE81","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_67AEE81","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":480.0,},
         {"$GMRInstance":"v1","%Name":"inst_58FFB038","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58FFB038","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":416.0,},
         {"$GMRInstance":"v1","%Name":"inst_6D514688","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D514688","objectId":{"name":"obj_youwin","path":"objects/obj_youwin/obj_youwin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":976.0,"y":672.0,},
+        {"$GMRInstance":"v1","%Name":"inst_7F73C879","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7F73C879","objectId":{"name":"secrret_wall","path":"objects/secrret_wall/secrret_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":101.0,"y":878.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_71894FDB","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_71894FDB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},"x":20.0,"y":14.0,},
@@ -1848,7 +1850,7 @@
   },
   "sequenceId":null,
   "views":[
-    {"hborder":32,"hport":1168,"hspeed":-1,"hview":1098,"inherit":false,"objectId":{"name":"obj_goodguy","path":"objects/obj_goodguy/obj_goodguy.yy",},"vborder":32,"visible":true,"vspeed":-1,"wport":2366,"wview":1526,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":500,"hport":3000,"hspeed":1000,"hview":400,"inherit":false,"objectId":{"name":"obj_goodguy","path":"objects/obj_goodguy/obj_goodguy.yy",},"vborder":500,"visible":true,"vspeed":1000,"wport":6000,"wview":800,"xport":0,"xview":500,"yport":0,"yview":500,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":500,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":700,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
@@ -1860,7 +1862,7 @@
   "viewSettings":{
     "clearDisplayBuffer":true,
     "clearViewBackground":false,
-    "enableViews":false,
+    "enableViews":true,
     "inheritViewSettings":false,
   },
   "volume":1.0,

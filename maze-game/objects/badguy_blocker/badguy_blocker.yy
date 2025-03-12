@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object8",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_small","path":"objects/obj_small/obj_small.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"badguy_blocker",
+  "eventList":[],
   "managed":true,
-  "name":"Object8",
+  "name":"badguy_blocker",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_badguy_down",
-    "path":"sprites/spr_badguy_down/spr_badguy_down.yy",
+    "name":"Sprite20",
+    "path":"sprites/Sprite20/Sprite20.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
